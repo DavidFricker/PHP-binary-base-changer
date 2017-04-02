@@ -1,0 +1,13 @@
+{
+    "name":"davidfricker/basechanger",
+    "description":"High precision arbitrary base changer",
+    "license": "MIT",
+    "require":{
+        "php":"^5.3.3 || ^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "DavidFricker\\BaseChanger\\": "src"
+        }
+    }
+}
