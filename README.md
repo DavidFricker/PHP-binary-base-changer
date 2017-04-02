@@ -6,7 +6,9 @@ Change raw binary bytes to an arbitrary base e.g. 36, 58, or base 64
 
 
 ## Install
+Via composer:
 
+`composer require davidfricker/basechanger`
 
 ## Usage
 
