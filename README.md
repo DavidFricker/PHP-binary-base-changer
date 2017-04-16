@@ -1,4 +1,4 @@
-# PHP-binary-base-changer
+# PHP binary base changer
 Change raw binary bytes to and from an arbitrary base e.g. 36, 58, or 64. This package stands in place of PHP's native `base_convert()` function and in doing so provides support for arbitrarily large numbers.
 
 ## Requirements
